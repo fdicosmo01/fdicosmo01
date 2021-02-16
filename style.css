@@ -23,11 +23,13 @@ header a:hover{
   float: left;
   font-size: 20px;
   font-weight:bold;
+  margin-left:50px;
 }
 #nav{
   display: block;
   float: right;
   margin-top: 0;
+  margin-right:50px;
 }
 #nav li{
   display: inline;
@@ -45,6 +47,7 @@ footer{
   min-width: 300px;
   display: inline-block;
   vertical-align: top;
+  margin-left:50px;
 }
 footer h4{
   color: white;
