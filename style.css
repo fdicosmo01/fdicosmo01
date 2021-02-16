@@ -35,7 +35,7 @@ header a:hover{
 }
 .container{
   max-width: 1000px;
-  margin: 0 auto;
+  margin: auto;
 }
 footer{
   background-color: #2f2f2f;
